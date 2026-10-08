@@ -1,0 +1,6 @@
+{
+  "name": "DharmaDarshan",
+  "description": "DharmaDarshan - Modern Spiritual & Vedic Astrological Platform with Live Darshan, Poojas, Verified Astrologers, AI Guru & Vedic Tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
